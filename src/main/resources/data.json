@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Tomates",
+    "quantity": 5,
+    "deleted": false,
+    "unit": "entière"
+  },
+  {
+    "name": "Oignons",
+    "quantity": 2,
+    "deleted": false,
+    "unit": "pièces"
+  },
+  {
+    "name": "Pommes de terre",
+    "quantity": 10,
+    "deleted": false,
+    "unit": "pièces"
+  },
+  {
+    "name": "Carottes",
+    "quantity": 6,
+    "deleted": false,
+    "unit": "pièces"
+  },
+  {
+    "name": "Poivrons",
+    "quantity": 3,
+    "deleted": false,
+    "unit": "pièces"
+  }
+]
