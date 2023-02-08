@@ -17,6 +17,8 @@ import java.util.Optional;
 @RestController
 //@SecurityRequirement(name = "bearerAuth")
 //TODO Remettre la sécurité avec le principal
+//changement
+
 public class PlateController {
     @Autowired
     private PlateRepository plateRepository;
